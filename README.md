@@ -1,7 +1,7 @@
 
 # An Ordinal Regression Framework for a Deep Learning Based Severity Assessment for Chest Radiographs
 
-In this repository we share our code from the identically named paper. You can find it using the following link: [TODO ADD LINK].
+In this repository we share our code from the identically named paper. You can find it using the following link: https://arxiv.org/abs/2402.05685 .
 Unfortunately, we are not allowed to share the clinical dataset we used.
 
 
